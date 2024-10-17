@@ -28,7 +28,7 @@ Set the path to the _tesseract.exe_ in the script.
 ## Usage
 Place the __frozen_east_text_detection.pb__(https://github.com/oyyd/frozen_east_text_detection.pb) model file in the same directory as the script.  
 Place the image file you want to process in the same directory and name it like img5.jpg.  
-Run the script __asg_1.ipynb__.  
+Run the script __asg1.ipynb__.  
 The script will perform the following steps:
 
 1.Load the EAST text detection model.  
