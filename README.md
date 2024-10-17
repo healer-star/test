@@ -26,7 +26,7 @@ Download and install Tesseract-OCR from _https://digi.bib.uni-mannheim.de/tesser
 Set the path to the _tesseract.exe_ in the script.
 
 ## Usage
-Place the __frozen_east_text_detection.pb(https://github.com/oyyd/frozen_east_text_detection.pb)__ model file in the same directory as the script.  
+Place the __frozen_east_text_detection.pb__(https://github.com/oyyd/frozen_east_text_detection.pb) model file in the same directory as the script.  
 Place the image file you want to process in the same directory and name it like img5.jpg.  
 Run the script.  
 The script will perform the following steps:
