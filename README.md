@@ -12,7 +12,11 @@ __Tesseract-OCR__: An optical character recognition engine.
 ## Installation
 Before running the script, ensure you have installed the required libraries:
 
-```pip install opencv-python numpy matplotlib pytesseract tensorflow```
+```pip install opencv-python
+pip install numpy
+pip install matplotlib
+pip install pytesseract
+pip install tensorflow```
 
 Additionally, you need to install _Tesseract-OCR_ and set its path in the script.
 
