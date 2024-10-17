@@ -1,14 +1,14 @@
-Text Detection using EAST Model and Tesseract OCR
+# Text Detection using EAST Model and Tesseract OCR
 This Python script uses the EAST text detection model and Tesseract OCR to detect and extract text from an image. The EAST model is a deep learning-based text detector that localizes text in scenes with minimal reliance on language-specific character models. Tesseract OCR is an optical character recognition engine for various languages.
 
-Prerequisites
+## Prerequisites
 OpenCV: A library used for image processing and computer vision tasks.
 NumPy: A library for the numerical operations.
 Matplotlib: A library for creating static, interactive, and animated visualizations in Python.
 PyTesseract: A Python wrapper for Google's Tesseract-OCR Engine.
 TensorFlow: An open-source machine learning framework.
 Tesseract-OCR: An optical character recognition engine.
-Installation
+## Installation
 Before running the script, ensure you have installed the required libraries:
 
 bash
